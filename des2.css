@@ -1,5 +1,6 @@
 body{
     margin:0;
+    background:#D1FFD1;
 }
 header {
     background: #FFBEA7;
@@ -37,9 +38,9 @@ nav ul li a{
 }
 
 .col{
-    background:pink;
+    background:white;
     border-radius: 5px;
-    color: white;
+    color: grey;
     padding: 10px .5%;
     float: left;
     margin: 2%;
